@@ -4,4 +4,4 @@
 
 #### Да - это я!
 
-![](https://mega.nz/file/EsdHwRxY#EbN5KCc9aixM1Zd_9lSVvszpnRsYsxV1fWsuQEpRYZY)
+![](/img/about.jpg)
